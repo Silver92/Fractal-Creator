@@ -6,6 +6,10 @@ CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../Bitmap.h
 CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../BitmapFileHeader.h
 CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../BitmapInfoHeader.h
 
+CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o: ../Mandelbrot.cpp
+CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o: ../Mandelbrot.h
+
 CMakeFiles/FractalCreator.dir/main.cpp.o: ../Bitmap.h
+CMakeFiles/FractalCreator.dir/main.cpp.o: ../Mandelbrot.h
 CMakeFiles/FractalCreator.dir/main.cpp.o: ../main.cpp
 

@@ -30,9 +30,21 @@ cstdint
 cstdint
 -
 
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.cpp
+complex
+-
+Mandelbrot.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp
 iostream
 -
+cstdint
+-
 Bitmap.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
+Mandelbrot.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
 

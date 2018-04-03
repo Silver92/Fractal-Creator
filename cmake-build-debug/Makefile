@@ -150,6 +150,33 @@ Bitmap.cpp.s:
 	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/Bitmap.cpp.s
 .PHONY : Bitmap.cpp.s
 
+Mandelbrot.o: Mandelbrot.cpp.o
+
+.PHONY : Mandelbrot.o
+
+# target to build an object file
+Mandelbrot.cpp.o:
+	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o
+.PHONY : Mandelbrot.cpp.o
+
+Mandelbrot.i: Mandelbrot.cpp.i
+
+.PHONY : Mandelbrot.i
+
+# target to preprocess a source file
+Mandelbrot.cpp.i:
+	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.i
+.PHONY : Mandelbrot.cpp.i
+
+Mandelbrot.s: Mandelbrot.cpp.s
+
+.PHONY : Mandelbrot.s
+
+# target to generate assembly for a file
+Mandelbrot.cpp.s:
+	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.s
+.PHONY : Mandelbrot.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... Bitmap.o"
 	@echo "... Bitmap.i"
 	@echo "... Bitmap.s"
+	@echo "... Mandelbrot.o"
+	@echo "... Mandelbrot.i"
+	@echo "... Mandelbrot.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
