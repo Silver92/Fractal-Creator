@@ -3,8 +3,9 @@
 
 CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../Bitmap.cpp
 CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../Bitmap.h
+CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../BitmapFileHeader.h
+CMakeFiles/FractalCreator.dir/Bitmap.cpp.o: ../BitmapInfoHeader.h
 
-CMakeFiles/FractalCreator.dir/main.cpp.o: ../BitmapFileHeader.h
-CMakeFiles/FractalCreator.dir/main.cpp.o: ../BitmapInfoHeader.h
+CMakeFiles/FractalCreator.dir/main.cpp.o: ../Bitmap.h
 CMakeFiles/FractalCreator.dir/main.cpp.o: ../main.cpp
 

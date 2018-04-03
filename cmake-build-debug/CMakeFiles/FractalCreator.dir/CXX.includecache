@@ -7,8 +7,14 @@
 #IncludeRegexTransform: 
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.cpp
+fstream
+-
 Bitmap.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
+BitmapInfoHeader.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapInfoHeader.h
+BitmapFileHeader.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapFileHeader.h
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
 string
@@ -27,8 +33,6 @@ cstdint
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp
 iostream
 -
-BitmapFileHeader.h
-/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapFileHeader.h
-BitmapInfoHeader.h
-/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapInfoHeader.h
+Bitmap.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
 
