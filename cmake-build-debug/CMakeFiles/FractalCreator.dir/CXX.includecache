@@ -43,6 +43,8 @@ iostream
 -
 cstdint
 -
+memory
+-
 Bitmap.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
 Mandelbrot.h
