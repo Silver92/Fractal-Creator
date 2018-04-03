@@ -1,0 +1,3 @@
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/FractalCreator.dir

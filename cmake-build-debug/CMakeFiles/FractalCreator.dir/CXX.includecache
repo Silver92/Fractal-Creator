@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapFileHeader.h
+cstdint
+-
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp
+iostream
+-
+BitmapFileHeader.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapInfoHeader.h
+
