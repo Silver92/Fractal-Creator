@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.cpp
+Bitmap.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
+string
+-
+cstdint
+-
+
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapFileHeader.h
 cstdint
 -

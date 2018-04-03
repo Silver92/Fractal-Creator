@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.cpp">
+			<Option target="FractalCreator"/>
+		</Unit>
+		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h">
+			<Option target="FractalCreator"/>
+		</Unit>
 		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/BitmapFileHeader.h">
 			<Option target="FractalCreator"/>
 		</Unit>
