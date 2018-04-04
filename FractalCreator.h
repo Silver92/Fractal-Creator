@@ -41,9 +41,11 @@ namespace  caveofprogramming{
         void drawFractal();
         void writeBitmap(string name);
 
+
     public:
         FractalCreator(int width, int height);
         void addColorRange(double rangeEnd, const RGB& rgb);
+        int getRange(int iterations) const;
         virtual ~FractalCreator();
         void addZoom(const Zoom& zoom);
         void run(string name);

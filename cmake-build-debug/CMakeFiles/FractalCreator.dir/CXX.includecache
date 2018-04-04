@@ -35,6 +35,8 @@ FractalCreator.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
 iostream
 -
+cassert
+-
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
 string
