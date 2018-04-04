@@ -33,6 +33,8 @@ cstdint
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.cpp
 FractalCreator.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
+iostream
+-
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
 string
@@ -44,6 +46,8 @@ cstdint
 memory
 -
 cmath
+-
+vector
 -
 Bitmap.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
