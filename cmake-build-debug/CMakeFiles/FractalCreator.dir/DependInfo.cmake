@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.cpp" "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/FractalCreator.dir/Bitmap.cpp.o"
   "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.cpp" "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o"
+  "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.cpp" "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/FractalCreator.dir/ZoomList.cpp.o"
   "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp" "/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/cmake-build-debug/CMakeFiles/FractalCreator.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

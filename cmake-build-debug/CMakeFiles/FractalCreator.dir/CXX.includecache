@@ -38,6 +38,22 @@ Mandelbrot.h
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
 
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.cpp
+ZoomList.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
+iostream
+-
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
+vector
+-
+utility
+-
+Zoom.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
+
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp
 iostream
 -
@@ -45,8 +61,12 @@ cstdint
 -
 memory
 -
+math.h
+-
 Bitmap.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
 Mandelbrot.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+ZoomList.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
 

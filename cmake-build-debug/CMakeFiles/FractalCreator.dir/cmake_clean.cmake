@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/FractalCreator.dir/main.cpp.o"
   "CMakeFiles/FractalCreator.dir/Bitmap.cpp.o"
   "CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o"
+  "CMakeFiles/FractalCreator.dir/ZoomList.cpp.o"
   "FractalCreator.pdb"
   "FractalCreator"
 )

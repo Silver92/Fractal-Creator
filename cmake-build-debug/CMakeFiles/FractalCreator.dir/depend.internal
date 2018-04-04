@@ -9,7 +9,13 @@ CMakeFiles/FractalCreator.dir/Bitmap.cpp.o
 CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.cpp
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+CMakeFiles/FractalCreator.dir/ZoomList.cpp.o
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.cpp
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
 CMakeFiles/FractalCreator.dir/main.cpp.o
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp
