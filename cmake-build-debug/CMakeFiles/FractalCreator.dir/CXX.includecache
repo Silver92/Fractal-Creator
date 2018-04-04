@@ -51,6 +51,8 @@ Mandelbrot.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
 ZoomList.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
+RGB.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.cpp
 complex
@@ -59,6 +61,12 @@ Mandelbrot.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.cpp
+RGB.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
+
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
 
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
 
@@ -79,4 +87,8 @@ iostream
 -
 FractalCreator.h
 /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
+RGB.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
+Zoom.h
+/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
 

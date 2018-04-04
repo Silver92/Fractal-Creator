@@ -104,6 +104,12 @@
 		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h">
 			<Option target="FractalCreator"/>
 		</Unit>
+		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.cpp">
+			<Option target="FractalCreator"/>
+		</Unit>
+		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h">
+			<Option target="FractalCreator"/>
+		</Unit>
 		<Unit filename="/Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h">
 			<Option target="FractalCreator"/>
 		</Unit>

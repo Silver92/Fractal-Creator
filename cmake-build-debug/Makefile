@@ -204,6 +204,33 @@ Mandelbrot.cpp.s:
 	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.s
 .PHONY : Mandelbrot.cpp.s
 
+RGB.o: RGB.cpp.o
+
+.PHONY : RGB.o
+
+# target to build an object file
+RGB.cpp.o:
+	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/RGB.cpp.o
+.PHONY : RGB.cpp.o
+
+RGB.i: RGB.cpp.i
+
+.PHONY : RGB.i
+
+# target to preprocess a source file
+RGB.cpp.i:
+	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/RGB.cpp.i
+.PHONY : RGB.cpp.i
+
+RGB.s: RGB.cpp.s
+
+.PHONY : RGB.s
+
+# target to generate assembly for a file
+RGB.cpp.s:
+	$(MAKE) -f CMakeFiles/FractalCreator.dir/build.make CMakeFiles/FractalCreator.dir/RGB.cpp.s
+.PHONY : RGB.cpp.s
+
 ZoomList.o: ZoomList.cpp.o
 
 .PHONY : ZoomList.o
@@ -276,6 +303,9 @@ help:
 	@echo "... Mandelbrot.o"
 	@echo "... Mandelbrot.i"
 	@echo "... Mandelbrot.s"
+	@echo "... RGB.o"
+	@echo "... RGB.i"
+	@echo "... RGB.s"
 	@echo "... ZoomList.o"
 	@echo "... ZoomList.i"
 	@echo "... ZoomList.s"

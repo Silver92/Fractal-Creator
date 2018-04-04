@@ -11,11 +11,15 @@ CMakeFiles/FractalCreator.dir/FractalCreator.cpp.o
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.cpp
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
 CMakeFiles/FractalCreator.dir/Mandelbrot.cpp.o
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.cpp
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+CMakeFiles/FractalCreator.dir/RGB.cpp.o
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.cpp
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
 CMakeFiles/FractalCreator.dir/ZoomList.cpp.o
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.cpp
@@ -24,6 +28,7 @@ CMakeFiles/FractalCreator.dir/main.cpp.o
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Bitmap.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/FractalCreator.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Mandelbrot.h
+ /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/RGB.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/Zoom.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/ZoomList.h
  /Users/silver/Desktop/C++PLay/Advanced C++/FractalCreator/main.cpp
