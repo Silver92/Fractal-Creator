@@ -3,7 +3,7 @@
 //
 
 #include "ZoomList.h"
-#include <iostream>
+//#include <iostream>
 
 using namespace std;
 
@@ -20,7 +20,7 @@ namespace caveofprogramming {
 
         m_scale *= zoom.scale;
 
-        cout << m_xCenter << ", " << m_yCenter << ", " << m_scale << endl;
+//        cout << m_xCenter << ", " << m_yCenter << ", " << m_scale << endl;
     }
 
     pair<double, double> ZoomList::doZoom(int x, int y) {
