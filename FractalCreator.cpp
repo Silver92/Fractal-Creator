@@ -11,7 +11,7 @@ using namespace std;
 namespace  caveofprogramming {
 
     void FractalCreator::addColorRange(double rangeEnd, const RGB& rgb) {
-        m_ranges.push_back(rangeEnd*Mandelbrot::MAX_ITERATIONS);
+        m_ranges.push_back(int(rangeEnd*Mandelbrot::MAX_ITERATIONS));
         m_colors.push_back(rgb);
 
         if(m_bGotFirstRange) {
@@ -80,9 +80,9 @@ namespace  caveofprogramming {
 
                 m_fractal[y*m_width + x] = iterations;
 
-                if(iterations != Mandelbrot::MAX_ITERATIONS) {
+//                if(iterations != Mandelbrot::MAX_ITERATIONS) {
                     m_histogram[iterations]++;
-                }
+//                }
 
             }
         }
@@ -129,18 +129,18 @@ namespace  caveofprogramming {
                 uint8_t green = 0;
                 uint8_t blue = 0;
 
-                if(iterations != Mandelbrot::MAX_ITERATIONS) {
+//                if(iterations != Mandelbrot::MAX_ITERATIONS) {
 
                     int totalPixels = 0;
+
                     for (int i = rangeStart; i <= iterations; i++) {
                         totalPixels += m_histogram[i];
                     }
 
-//                    green = pow(255, hue);
-                    red = startColor.r + colorDiff.r*(double)totalPixels/rangeTotal;
-                    green = startColor.g + colorDiff.g*(double)totalPixels/rangeTotal;
-                    blue = startColor.b + colorDiff.b*(double)totalPixels/rangeTotal;
-                }
+                    red = uint8_t(startColor.r + colorDiff.r*(double)totalPixels/rangeTotal);
+                    green = uint8_t(startColor.g + colorDiff.g*(double)totalPixels/rangeTotal);
+                    blue = uint8_t(startColor.b + colorDiff.b*(double)totalPixels/rangeTotal);
+
 
                 m_bitmap.setPixel(x, y, red, green, blue);
             }
