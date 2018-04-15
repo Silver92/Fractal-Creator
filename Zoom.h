@@ -1,11 +1,12 @@
 //
 // Created by Silver on 2018-04-04.
+// A class to store zoom parameters
 //
 
 #ifndef FRACTALCREATOR_ZOOM_H
 #define FRACTALCREATOR_ZOOM_H
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
     struct Zoom {
         int x{0};
         int y{0};

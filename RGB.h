@@ -5,7 +5,7 @@
 #ifndef FRACTALCREATOR_RGB_H
 #define FRACTALCREATOR_RGB_H
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
     struct RGB {
         double r;
         double g;

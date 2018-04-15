@@ -7,10 +7,10 @@
 #include "BitmapInfoHeader.h"
 #include "BitmapFileHeader.h"
 
-using namespace caveofprogramming;
+using namespace FractalCreatorN;
 using namespace std;
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
     Bitmap::Bitmap(int width, int height):
             m_width(width), m_height(height), m_pPixels(new uint8_t[width*height*3]{ }) {
     }

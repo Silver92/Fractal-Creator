@@ -1,5 +1,6 @@
 //
 // Created by Silver on 2018-04-04.
+// Adding zoom parameters and implement zoom operations of a single pixel
 //
 
 #include "ZoomList.h"
@@ -7,7 +8,7 @@
 
 using namespace std;
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
     ZoomList::ZoomList(int width, int height) : m_width(width), m_height(height) {
 
     }

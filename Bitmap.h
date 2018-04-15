@@ -9,7 +9,7 @@
 #include <cstdint>
 using namespace std;
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
 
     class Bitmap {
     public:

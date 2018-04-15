@@ -8,7 +8,7 @@
 
 using namespace std;
 
-namespace  caveofprogramming {
+namespace  FractalCreatorN {
 
     void FractalCreator::addColorRange(double rangeEnd, const RGB& rgb) {
         m_ranges.push_back(int(rangeEnd*Mandelbrot::MAX_ITERATIONS));
@@ -23,6 +23,7 @@ namespace  caveofprogramming {
 
     }
 
+    // Get the color range according to the iteration times of the selected pixel
     int FractalCreator::getRange(int iterations) const {
         int range = 0;
 
@@ -117,10 +118,12 @@ namespace  caveofprogramming {
 
                 int iterations = m_fractal[y*m_width + x];
 
+                // Get the color range information
                 int range = getRange(iterations);
                 int rangeTotal = m_rangeTotals[range];
                 int rangeStart = m_ranges[range];
 
+                // Calculate the color difference of the selected color range
                 RGB& startColor = m_colors[range];
                 RGB& endColor = m_colors[range+1];
                 RGB colorDiff = endColor - startColor;

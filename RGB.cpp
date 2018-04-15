@@ -4,7 +4,7 @@
 
 #include "RGB.h"
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
     RGB::RGB(double r, double g, double b): r(r), g(g), b(b) {
 
     }

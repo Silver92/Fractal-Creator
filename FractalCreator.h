@@ -18,7 +18,7 @@
 
 using namespace std;
 
-namespace  caveofprogramming{
+namespace  FractalCreatorN{
     class FractalCreator {
     private:
         int m_width;

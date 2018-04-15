@@ -7,7 +7,7 @@
 
 using namespace std;
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
 
     int Mandelbrot::getIterations(double x, double y){
 

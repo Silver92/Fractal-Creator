@@ -5,7 +5,7 @@
 #ifndef FRACTALCREATOR_MANDELBROT_H
 #define FRACTALCREATOR_MANDELBROT_H
 
-namespace caveofprogramming {
+namespace FractalCreatorN {
 
     class Mandelbrot {
 
