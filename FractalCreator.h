@@ -44,9 +44,10 @@ namespace  FractalCreatorN{
 
     public:
         FractalCreator(int width, int height);
+        virtual ~FractalCreator();
+
         void addColorRange(double rangeEnd, const RGB& rgb);
         int getRange(int iterations) const;
-        virtual ~FractalCreator();
         void addZoom(const Zoom& zoom);
         void run(string name);
     };
